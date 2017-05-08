@@ -4,7 +4,8 @@ So, this series intended to help reducing those confusions (or perhaps puzzled y
 about the choices of the all software used in this ecosystem related to the scenarios. I WILL NOT talk about the concept of Big Data here, you can find it easily on Internet 
 so, Google it.
 ## Data
-I will used the Human Resources Analytics dataset on Kaggle at this: https://www.kaggle.com/ludobenistant/hr-analytics
+I will used the Human Resources Analytics dataset on Kaggle at this: https://www.kaggle.com/ludobenistant/hr-analytics and example data from MYSQL database.
+Since, everyone can install MYSQL fairy easy so, I will skip that. You can download MYSQL here: https://dev.mysql.com/downloads/
 ## Contents
 ### Cassandra
 Well, pretty much every company that want to step into the world of Big data already have existing systems. You need the place to store your data, very very big place. You also need 
