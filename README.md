@@ -1,13 +1,13 @@
 ## Introduction
 
 ## Data
-
+I will used the Human Resources Analytics dataset on Kaggle at this: https://www.kaggle.com/ludobenistant/hr-analytics
 ## Contents
 
-### Hadoop
+  ### Hadoop
 
-### HBase
+  ### HBase
 
-### Sqoop
+  ### Sqoop
 
-### Will add more later.
+  ### Will add more later.
