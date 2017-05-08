@@ -10,7 +10,7 @@ I will used the Human Resources Analytics dataset on Kaggle at this: https://www
   Well, pretty much every company that want to step into the world of Big data already have existing systems. You need the place to store your data, very very big place. You also need 
   scalability and high availability which is pretty common requirement for every data warehouse or data lake. We have 4 popular NoSQL Databases to chose from MongoDB, Cassandra, Couchbase and HBase
   All of them have REST interface for web application, all of them claimed to run faster than other and all of the have interfaces to integrate with other Big data related products within Apache family.
-  So I will use the one I familiar with the most and easier to set-up. I will try other Storage and compare them later. Let's begin with Cassandra.
+  So I will use the one I familiar with the most and easier to set-up. I will try other Storage and compare them later. Let's begin with Cassandra, click here: https://github.com/Celynaria/HadoopEcosystem/blob/master/Cassandra/Installation.md.
   ### Hadoop
 
   ### HBase
